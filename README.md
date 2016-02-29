@@ -6,7 +6,8 @@
 
 ## Screenshots in Block
 ![ScreenShot](Block.Screen1.png)
-![ScreenShot](Block.Screen1.png)
+![ScreenShot](Block.Screen2.png)
 
 ## Screenshots from device
 ![ScreenShot](Screenshot.Screen1.png)
+![ScreenShot](Screenshot.Screen2.png)
