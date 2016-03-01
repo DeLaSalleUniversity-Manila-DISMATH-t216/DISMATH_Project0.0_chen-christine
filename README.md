@@ -1,13 +1,16 @@
 # DISMATH_Project0.0_chen-christine
 
-## Screenshots in Designer
-![ScreenShot](Designer.Screen1.png)
-![ScreenShot](Designer.Screen2.png)
+## Designer Screenshots
+![ScreenShot](Design1.png)
+![ScreenShot](Design2.png)
+![ScreenShot](Design3.png)
 
-## Screenshots in Block
-![ScreenShot](Block.Screen1.png)
-![ScreenShot](Block.Screen2.png)
+## Block Screenshots
+![ScreenShot](Block1.png)
+![ScreenShot](Block2.png)
+![ScreenShot](Block3.png)
 
-## Screenshots from device
-![ScreenShot](Screenshot.Screen1.jpg)
-![ScreenShot](Screenshot.Screen2.jpg)
+## Phone Screenshots
+![ScreenShot](Screenshot1.jpg)
+![ScreenShot](Screenshot2.jpg)
+![ScreenShot](Screenshot3.jpg)
